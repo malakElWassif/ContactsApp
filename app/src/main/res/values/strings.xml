@@ -1,16 +1,16 @@
 <resources>
     <string name="app_name">ContactsApp</string>
-    <string name="auntie">auntie</string>
-    <string name="brother">brother</string>
-    <string name="daughter">daughter</string>
-    <string name="friend_1">friend 1</string>
-    <string name="friend_2">friend 2</string>
-    <string name="granny">granny</string>
-    <string name="grandfather">grandfather</string>
-    <string name="sister">sister</string>
-    <string name="neighbour">neighbour</string>
-    <string name="son">son</string>
-    <string name="uncle">uncle</string>
+    <string name="auntie">Auntie</string>
+    <string name="brother">Brother</string>
+    <string name="daughter">Daughter</string>
+    <string name="friend_1">Friend 1</string>
+    <string name="friend_2">Friend 2</string>
+    <string name="granny">Granny</string>
+    <string name="grandfather">Grandfather</string>
+    <string name="sister">Sister</string>
+    <string name="neighbour">Neighbour</string>
+    <string name="son">Son</string>
+    <string name="uncle">Uncle</string>
 
 
 
